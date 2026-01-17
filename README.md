@@ -1,6 +1,11 @@
-# 🔐 Secure Messaging Application – Cryptographic Design & Application Security Case Study
+# 🔐 Windows Encryption Application 
 
-## 📌 Overview
+<div align="center">
+  <img src="https://github.com/VarunBhattacharya/CryptAL/assets/109750332/fd23ad7b-3a33-4966-9432-5a97f0a1a2f5" alt="CyrptAL Logo">
+</div>
+
+
+📌Overview
 
 This repository contains a **Python-based Windows application** built as an **Application Security and Cryptography case study**, focused on demonstrating **secure message encryption and decryption techniques** using established cryptographic methods.
 
